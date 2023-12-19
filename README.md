@@ -85,11 +85,54 @@ createCompletion();
 
 This snippet demonstrates how to send a system message and obtain a completion from the specified language model.
 
-### Support
+# Support
 
-Should you encounter any issues or have questions regarding the `merlin-node` package, please file an issue through the issue tracker on the package's repository.
+For quick questions or to engage with the `merlin-api` community, please join our [Discord server](https://discord.com/invite/ZnhUMV3NbD).
 
-Happy coding!
+## Detailed Inquiries
+
+For detailed inquiries or private matters, reach out to the Merlin team via email:
+
+- **Siddhartha**: siddhartha@getmerlin.in
+
+Please provide a clear and detailed explanation of the issue you’re experiencing to streamline the support process.
+
+## Social Media
+
+Follow us on Twitter [@foyerwork](https://twitter.com/foyerwork) for regular updates, tips, and community highlights.
+
+Connect with us on [LinkedIn](https://www.linkedin.com/company/foyer-work/) for more professional engagement and company news.
+
+## Raising Issues & Feature Requests
+
+Encounter a bug or want to suggest a new feature for `merlin-api`? Raise a ticket directly on our GitHub repository:
+
+[Merlin Node GitHub Repo](https://github.com/foyer-work/merlin-node)
+
+To open an issue:
+
+- Visit the [Issues tab](https://github.com/foyer-work/merlin-node/issues) and click on `New Issue`.
+- Provide a detailed description of the issue or feature request.
+- Submit the form to create the issue. Our team will review it and respond accordingly.
+
+## Reporting Urgent Issues
+
+If you find a security vulnerability or an issue that should be addressed immediately:
+
+- Email us at siddhartha@getmerlin.in with the subject line "Urgent Issue".
+- Include all relevant details, steps to reproduce, and any other information that can help us understand the urgency of the issue.
+
+## Documentation
+
+Visit our [homepage](http://api.getmerlin.in/docs) for comprehensive documentation and API guides.
+
+For additional support, explore the resources listed on our [main page](http://getmerlin.in).
+
+
+---
+
+We’re committed to providing you with the support you need to make the most out of `merlin-api`. Don't hesitate to reach out with any concerns or questions you may have.  
+
 
 ---
 
